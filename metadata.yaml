@@ -1,0 +1,38 @@
+_repo: The-Buckaroo-of-Blue-Wells_67431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur C.
+    - Tuttle, Wilbur Coleman
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: ''
+gutenberg_issued: '2022-02-18'
+identifiers:
+  gutenberg: '67431'
+language: en
+pgterms:marc904: https://archive.org/details/AdventureV060N0419261123
+pgterms:marc905: 20220201174255tuttle
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark. This file was produced from images generously
+  made available by The Internet Archive.
+publication_note: United States :The Butterick Publishing Company,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Hartley, Hashknife (Fictitious character) -- Fiction'
+- !lcsh 'Stevens, Sleepy (Fictitious character) -- Fiction'
+- !lcsh 'Cowboys -- Fiction'
+- !lcsh 'Robbery -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Buckaroo of Blue Wells
+url: http://www.gutenberg.org/ebooks/67431
